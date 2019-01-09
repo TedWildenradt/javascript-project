@@ -1,12 +1,16 @@
 # javascript-project
 * Real Estate SF
 * Background and Overview
-    * Data visualization regarding real estate trends by neighborhood in San Francisco
+    * Data visualization regarding real estate trends in San Francisco over time
 * Functionality and MVP Features
-   *
+   * Interesting and interactive data charts and graphs that show the data in a new way
    * Data that will be shown:
-    * Overall price increase by neighborhead over time
-    * Percent increase
+    * Median Home value sqft
+    * Increasing valus (%)
+    * Median Sales Price
+    * Sales to List ratio
+    * Price to Rent Ratio
+    * More to come as I research the availability of data
 * Architecture and Technologies
     * D3 - Data Driven Documents
         * A JavaScript library for manipulating documents based on data
@@ -23,7 +27,6 @@
         * Description
         * Justification
 * Data and APIs
-   * ATTOM Data
    * Zillow
    * Google Maps
     ...
@@ -33,7 +36,10 @@ Implementation Timeline
       * Day 1
          * Review D3 gallery
          * Select charts and graphs to use
+         * Determine the data that will be used
+         * explanation of data and what it is describing/mean
       * Day 2
+         *
       * Day 3
       * Day 4
       * Day 5
