@@ -31,18 +31,28 @@
    * Google Maps
     ...
 Implementation Timeline
-    * Most important category
     * Daily breakdown
       * Day 1
          * Review D3 gallery
          * Select charts and graphs to use
          * Determine the data that will be used
-         * explanation of data and what it is describing/mean
+         * explanation of data and what it is describing
       * Day 2
-         *
+         * Learn D3, how to implement
+         * Do some tutorials
+         * Build simple graphs
       * Day 3
+         * Wonder why D3 doesn't work
+         * Ask a lot of questions in placements queue
       * Day 4
+         * Parse CSV data in to JSON
+         * Add JSON objects to project
       * Day 5
+         * Select graphs to be used with specific data sets
       * Day 6
+         * Make data interactive, clickable.
+         * Design color scheme for data points
       * Day 7
-    * Aim to be done by Friday
+         * Final touches,
+         * Testing
+         * Deploy
