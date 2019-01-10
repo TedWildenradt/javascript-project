@@ -54,3 +54,5 @@
          * Final touches,
          * Testing
          * Deploy
+### Wireframe
+   * [wireframe](https://raw.githubusercontent.com/TedWildenradt/javascript-project/master/WireFrame.png)
