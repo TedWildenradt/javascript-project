@@ -1,8 +1,9 @@
 # javascript-project
-* Real Estate SF
-* Background and Overview
+## Real Estate SF
+### Background and Overview
     * Data visualization regarding real estate trends in San Francisco over time
-* Functionality and MVP Features
+    * Purpose: To make the data as impactful and visually appealing as possible. Become familiar with the D3 library and its capabilities.
+### Functionality and MVP Features
    * Interesting and interactive data charts and graphs that show the data in a new way
    * Data that will be shown:
     * Median Home value sqft
@@ -10,12 +11,12 @@
     * Median Sales Price
     * Sales to List ratio
     * Price to Rent Ratio
-    * More to come as I research the availability of data
-* Architecture and Technologies
+    * Median prices for 1 through 5 bedroom homes all on the same graph.
+### Architecture and Technologies
     * D3 - Data Driven Documents
         * A JavaScript library for manipulating documents based on data
         * Provides powerful visualization components and a data-driven approach to DOM manipulation
-        * Potential D3 graphs and charts:
+        * Potential D3 graphs and charts from the D3 gallery:
          * Choropleth
          * heirarchal bars
          * Hip replacement by state
@@ -23,14 +24,11 @@
          * housing prices over time color coded http://helenjacksonanalytic.co.uk/EW_prop_price.html
          * life expectancy trend - prices over time by neighborhood
          * starpath
-    * Technology 2
-        * Description
-        * Justification
-* Data and APIs
+### Data and APIs
    * Zillow
-   * Google Maps
+   * Google Maps (potentially)
     ...
-Implementation Timeline
+### Implementation Timeline
     * Daily breakdown
       * Day 1
          * Review D3 gallery
